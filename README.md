@@ -1,1 +1,1 @@
-# indovina
+# indovina: Oggi ho fatto un programma dove il mio codice crea sottovoce un numero da 1 a 100 e io tramite una TEdit devo scrivere il mio numero, per vedere se è giusto eventualmente basta cliccare il bottone prova, se è giusto, per fare una nuova partita basta cliccare su "Nuova partita"
